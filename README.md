@@ -1,8 +1,9 @@
 # ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mohammad+Hasan+Waseq!;Welcome+to+my+GitHub+page!)
 
  **Frontend Developer | Passionate about Web Development**
- Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox&logoColor=white&labelColor=black&color=green&logoWidth=20&link=https://your-portfolio-link.com)](https://your-portfolio-link.com)  
+ Portfolio  
+ [![Portfolio](https://img.shields.io/badge/Portfolio-lightblue?style=for-the-badge&logo=firefox&logoColor=black)](https://your-portfolio-link.com)
+
 
 ##  About Me
 -  **Software Engineering Graduate from Herat University**
