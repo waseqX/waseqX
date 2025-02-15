@@ -1,6 +1,7 @@
 # ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mohammad+Hasan+Waseq!;Welcome+to+my+GitHub+page!)
  **Portfolio**  
-[![Portfolio](https://readme-typing-svg.herokuapp.com?color=%230084FF&size=22&center=true&vCenter=true&width=150&height=30&lines=Portfolio)](https://your-portfolio-link.com)
+[![Portfolio](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)](https://your-portfolio-link.com)
+
 
 
  
