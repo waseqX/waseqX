@@ -1,29 +1,18 @@
 # ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mohammad+Hasan+Waseq!;Welcome+to+my+GitHub+page!)
  Portfolio  
- 
  [![Portfolio](https://img.shields.io/badge/Portfolio-lightblue?style=for-the-badge&logo=firefox&logoColor=black)](https://your-portfolio-link.com)  
  
-
-
 ##  About Me
  -  Software Engineering Graduate from Herat University
 -  Currently mastering React, Tailwind CSS, and GitHub
 -  Exploring the latest trends in frontend development
--  Open to collaborations and exciting projects
-
 ## Languages & Tools
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
-
-
-
 
 ## 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
