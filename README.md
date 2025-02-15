@@ -26,30 +26,28 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+## Featured Projects
+
+🔹 **[Portfolio Website](https://your-live-demo-link.com)**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4c1f1f?style=for-the-badge&logo=github&logoColor=white&color=4c1f1f&labelColor=black&link=https://your-live-demo-link.com)](https://your-live-demo-link.com)
+
+🔹 **[Online Shop](https://your-live-demo-link.com)**  
+[![Online Shop](https://img.shields.io/badge/Online%20Shop-Demo-4c1f1f?style=for-the-badge&logo=shopify&logoColor=white&color=5cb85c&labelColor=black&link=https://your-live-demo-link.com)](https://your-live-demo-link.com)
+
+🔹 **[W3Schools Clone](https://your-live-demo-link.com)**  
+[![W3Schools Clone](https://img.shields.io/badge/W3Schools%20Clone-Demo-4c1f1f?style=for-the-badge&logo=w3c&logoColor=white&color=ff6347&labelColor=black&link=https://your-live-demo-link.com)](https://your-live-demo-link.com)
+
+🔹 **[Calculator App](https://your-live-demo-link.com)**  
+[![Calculator App](https://img.shields.io/badge/Calculator%20App-Demo-4c1f1f?style=for-the-badge&logo=apple&logoColor=white&color=3e8e41&labelColor=black&link=https://your-live-demo-link.com)](https://your-live-demo-link.com)
+
 
 ## 🌎 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](your-github-url)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-## Featured Projects
 
-🔹 **[Portfolio Website](https://your-live-demo-link.com)**  
-A beautifully crafted personal portfolio website showcasing my skills, projects, and experience.  
-[🔗 Source Code](https://github.com/your-username/portfolio-project)
-
-🔹 **[Online Shop](https://your-live-demo-link.com)**  
-A dynamic online shopping platform featuring product listings, cart functionality, and a sleek UI.  
-[🔗 Source Code](https://github.com/your-username/online-shop)
-
-🔹 **[W3Schools Clone](https://your-live-demo-link.com)**  
-A recreated section of the popular W3Schools website, designed using HTML, CSS, and JavaScript.  
-[🔗 Source Code](https://github.com/your-username/w3schools-clone)
-
-🔹 **[Calculator App](https://your-live-demo-link.com)**  
-A stylish and functional calculator with a modern UI, supporting essential arithmetic operations.  
-[🔗 Source Code](https://github.com/your-username/calculator-project)
 
 🔹 **Mini Projects**  
 -  **Color Picker**: A handy tool for selecting and copying color codes  
