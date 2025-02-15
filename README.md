@@ -1,14 +1,13 @@
 # ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mohammad+Hasan+Waseq!;Welcome+to+my+GitHub+page!)
 
  **Frontend Developer | Passionate about Web Development**
-
-I'm a frontend developer dedicated to crafting modern, sleek, and highly functional web applications. Passionate about UI/UX, performance optimization, and staying up-to-date with the latest web technologies.
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 ##  About Me
-- 🎓 **Software Engineering Graduate from Herat University**
-- 🌱 **Currently mastering React, Tailwind CSS, and GitHub**
-- 💡 **Exploring the latest trends in frontend development**
-- 🤝 **Open to collaborations and exciting projects**
+-  **Software Engineering Graduate from Herat University**
+-  **Currently mastering React, Tailwind CSS, and GitHub**
+-  **Exploring the latest trends in frontend development**
+-  **Open to collaborations and exciting projects**
 
 ## 🏆 Achievements & Certifications
 - ✅ **Advanced React Development** – *Jonas Schmedtmann (Udemy)*
@@ -16,14 +15,18 @@ I'm a frontend developer dedicated to crafting modern, sleek, and highly functio
 - ✅ **HTML, CSS, and JavaScript for Web Developers** – *Johns Hopkins University (Coursera)*
 - ✅ **Introduction to Front-End Development** – *Meta (Coursera)*
 
-## Tech Stack & Tools
-
+## Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## 🌎 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](your-github-url)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ## Featured Projects
 
@@ -48,10 +51,7 @@ A stylish and functional calculator with a modern UI, supporting essential arith
 -  **To-Do App**: A simple yet effective task management app with local storage support  
 -  **Random Quote Generator**: Generates and displays random inspirational quotes  
 
-## 🌎 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](your-github-url)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
 
 ##  Current Challenges & Future Goals
 -  **Mastering advanced React & Tailwind CSS**
