@@ -7,10 +7,10 @@
 
 
 ##  About Me
--### Software Engineering Graduate from Herat University
--### Currently mastering React, Tailwind CSS, and GitHub
--### Exploring the latest trends in frontend development
--### Open to collaborations and exciting projects
+### -Software Engineering Graduate from Herat University
+### -Currently mastering React, Tailwind CSS, and GitHub
+### -Exploring the latest trends in frontend development
+### -Open to collaborations and exciting projects
 
 
 ## 🏆 Achievements & Certifications
