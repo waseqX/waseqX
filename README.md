@@ -2,14 +2,16 @@
 
  **Frontend Developer | Passionate about Web Development**
  Portfolio  
+ 
  [![Portfolio](https://img.shields.io/badge/Portfolio-lightblue?style=for-the-badge&logo=firefox&logoColor=black)](https://your-portfolio-link.com)
 
 
 ##  About Me
--  **Software Engineering Graduate from Herat University**
--  **Currently mastering React, Tailwind CSS, and GitHub**
--  **Exploring the latest trends in frontend development**
--  **Open to collaborations and exciting projects**
+-### Software Engineering Graduate from Herat University
+-### Currently mastering React, Tailwind CSS, and GitHub
+-### Exploring the latest trends in frontend development
+-### Open to collaborations and exciting projects
+
 
 ## 🏆 Achievements & Certifications
 - ✅ **Advanced React Development** – *Jonas Schmedtmann (Udemy)*
